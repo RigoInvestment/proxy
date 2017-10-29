@@ -1,0 +1,8 @@
+{
+  "id": "davidproxy",
+  "name": "DavidProxy",
+  "description": "RigoBlock proxy from gab",
+  "author": "RigoBlock Team <admin@rigoblock.com>",
+  "version": "0.0.1",
+  "iconUrl": ""
+}
